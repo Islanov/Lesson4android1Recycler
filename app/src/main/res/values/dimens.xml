@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="size10" />
+    <dimen name="sp30" />
+</resources>
